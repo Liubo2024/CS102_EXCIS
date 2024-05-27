@@ -1,0 +1,9 @@
+﻿  CS102_EXCIS.cpp
+C:\99.Study\04.CAANZ\02.YOUBEE\02.Exercises\01.Git\Exercises_1.4\YoobeeExercises_1.4\YoobeeExercises_1.4\CS102_EXCIS.cpp(73,49): warning C4101: “e”: 未引用的局部变量
+C:\99.Study\04.CAANZ\02.YOUBEE\02.Exercises\01.Git\Exercises_1.4\YoobeeExercises_1.4\YoobeeExercises_1.4\CS102_EXCIS.cpp(77,45): warning C4101: “e”: 未引用的局部变量
+C:\99.Study\04.CAANZ\02.YOUBEE\02.Exercises\01.Git\Exercises_1.4\YoobeeExercises_1.4\YoobeeExercises_1.4\CS102_EXCIS.cpp(145,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\99.Study\04.CAANZ\02.YOUBEE\02.Exercises\01.Git\Exercises_1.4\YoobeeExercises_1.4\YoobeeExercises_1.4\CS102_EXCIS.cpp(147,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\99.Study\04.CAANZ\02.YOUBEE\02.Exercises\01.Git\Exercises_1.4\YoobeeExercises_1.4\YoobeeExercises_1.4\CS102_EXCIS.cpp(377,41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  YoobeeExercises_1.4.cpp
+  正在生成代码...
+  YoobeeExercises_1.4.vcxproj -> C:\99.Study\04.CAANZ\02.YOUBEE\02.Exercises\01.Git\Exercises_1.4\YoobeeExercises_1.4\x64\Debug\YoobeeExercises_1.4.exe
